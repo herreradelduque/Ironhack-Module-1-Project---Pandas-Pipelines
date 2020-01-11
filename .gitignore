@@ -76,6 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.ipynb
 
 # IPython
 profile_default/
@@ -131,3 +132,9 @@ dmypy.json
 
 .DS_Store
 __trash__/
+
+# files from my pipeline
+*.pdf
+*.pptx
+*.png
+*.jpg
